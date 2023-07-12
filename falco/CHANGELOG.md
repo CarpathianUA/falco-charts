@@ -4,7 +4,7 @@ This file documents all notable changes to Falco Helm Chart. The release
 numbering uses [semantic versioning](http://semver.org).
 
 ## v3.4.0
-* Introduce an ability to use an additional volumeMounts from for `falcoctl-artifact-install` and `falcoctl-artifact-follow` containers.
+* Introduce an ability to use an additional volumeMounts for `falcoctl-artifact-install` and `falcoctl-artifact-follow` containers.
 
 ## v3.3.0
 * Upgrade Falco to 0.35.1. For more info see the release notes: https://github.com/falcosecurity/falco/releases/tag/0.35.1
